@@ -12,8 +12,8 @@ Overall, this project will help the team move forward with the detailed strategy
 
 In this project, we have conducted exploratory data analysis on two types of cases:
 
-No Match : These are cases where we did not provide any solution to the learners from our Question Bank (ES Top Match).
-Correct/Incorrect Matches : These are cases where we have offered a solution to learners from our Question Bank, but we are uncertain whether the solution meets their expectations.
+1. No Match : These are cases where we did not provide any solution to the learners from our Question Bank (ES Top Match).
+2. Correct/Incorrect Matches : These are cases where we have offered a solution to learners from our Question Bank, but we are uncertain whether the solution meets their expectations.
 
 <b> Data Source </b>
 
